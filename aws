@@ -1,3 +1,1 @@
-welcome to aws cloud 
-aws is nothing but king in cloud
-I am planning to do aws certifiction
+Use for instances in private subnets. Traffic is routed through a VPC endpoint. Connect using temporary SSH keys managed by AWS.
