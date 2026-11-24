@@ -2,3 +2,5 @@ hi ibm
 this is git brances concept
 ibm is a mnc company
 it is good in software
+
+Uses IAM-based authentication. Connect without SSH keys, bastion hosts, or opening any inbound ports.
